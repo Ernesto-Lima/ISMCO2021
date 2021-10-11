@@ -31,4 +31,4 @@ Ernesto Lima, The University of Texas at Austin, USA
 
 Emanuelle Paixao, National Laboratory of Scientific Computing (LNCC), Brazil
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ernesto-Lima/VeraoLNCC2021.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ernesto-Lima/ISMCO2021/HEAD)
