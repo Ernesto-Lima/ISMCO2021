@@ -27,7 +27,7 @@ Full-day course.
 • Calibration of tumor growth models (theory and hands-on): an introduction to concepts related to Bayesian calibration. We will present a brief introduction to model calibration and the Bayesian theory. In the hands-on part, the attendees will generate in silico data using the model implemented in (2) and calibrate the model parameters using the emcee Python library.
 
 ### Organizers
-Ernesto Lima, The University of Texas at Austin, USA
+Ernesto A. B. F. Lima, The University of Texas at Austin, USA
 
 Emanuelle Paixao, National Laboratory of Scientific Computing (LNCC), Brazil
 
